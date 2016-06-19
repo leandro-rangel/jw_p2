@@ -10,10 +10,7 @@ import java.sql.Statement;
 import br.javaweb.util.JavaWebException;
 
 /**
- * Objetivo: Responsavel por criar a coneccao com o banco de dados.
- * @author Philipe
- * @author Luiz
- * @author Vitor
+
  */
 public class ConnectionManager {
 
